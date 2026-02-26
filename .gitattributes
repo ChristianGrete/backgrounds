@@ -1,0 +1,2 @@
+backgrounds/adwaita-day.png filter=lfs diff=lfs merge=lfs -text
+backgrounds/adwaita-night.png filter=lfs diff=lfs merge=lfs -text
